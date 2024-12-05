@@ -18,7 +18,7 @@ export default function index() {
                     })
                 }
                 </p>
-                <motion.p className='gradient-text' variants={opacity} animate={isInView ? "open" : "closed"}>The combination of my passion for design, code & interaction positions me in a unique place in the web design world.</motion.p>
+                <motion.p className='gradient-text' variants={opacity} animate={isInView ? "open" : "closed"}>The combination of my passion for animation, design & interaction positions me in a unique place in the Animation  world.</motion.p>
                 <div data-scroll data-scroll-speed={0.1}>
                     <Rounded className={styles.button}>
                         <p>About me</p>

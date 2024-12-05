@@ -141,7 +141,7 @@ export default function Index() {
                 {/* Navigation */}
                 <div className={styles.nav}>
                     <Rounded>
-                        <p className="gradient-text">jasmeenmena75@gmail.com</p>
+                        <p className="gradient-text">jasmineanimator576@gmail.com</p>
                     </Rounded>
                     <Rounded>
                         <p className="gradient-text">+92 03176827836</p>
