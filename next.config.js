@@ -6,11 +6,11 @@ const nextConfig = {
       exclude: /node_modules/,
       use: ['raw-loader'],
       type: 'javascript/auto'
-    });
-    return config;
-     eslint: {
+       eslint: {
    ignoreDuringBuilds: true,
   },
+    });
+    return config;
   }
 };
 
