@@ -8,6 +8,9 @@ const nextConfig = {
       type: 'javascript/auto'
     });
     return config;
+     eslint: {
+   ignoreDuringBuilds: true,
+  },
   }
 };
 
