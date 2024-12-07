@@ -6,9 +6,6 @@ const nextConfig = {
       exclude: /node_modules/,
       use: ['raw-loader'],
       type: 'javascript/auto'
-       eslint: {
-   ignoreDuringBuilds: true,
-  },
     });
     return config;
   }
